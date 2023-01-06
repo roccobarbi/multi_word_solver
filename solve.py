@@ -7,7 +7,7 @@ program_epilog = (
     "",
     "EXAMPLES:",
     "",
-    "python3 check_words.py -l en -k m,1 -k s,3 -i rab cjddjke",
+    "python3 solve.py -l en -k m,1 -k s,3 -i rab cjddjke",
     "",
     "  this would identify a word with the pattern cjddjke, where c is known to",
     "  represent the letter m, d is known to represent the letter s, the letters r, a",
